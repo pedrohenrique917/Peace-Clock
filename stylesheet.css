@@ -1,0 +1,18 @@
+/* SPDX-License-Identifier: GPL-3.0-or-later */
+
+.peace-clock-time {
+    font-family: "Clash Display";
+    font-size: 22px;
+    font-weight: 500;
+    padding-left: 5px;
+    color: #d3b69d;
+    text-shadow: none;
+}
+
+.peace-clock-day {
+    font-family: "Clash Display";
+    font-size: 148px;
+    font-weight: 700;
+    color: #bf9775;
+    text-shadow: none;
+}

@@ -1,0 +1,9 @@
+{
+  "uuid": "relogio-desktop@local",
+  "name": "Peace Clock",
+  "description": "A centered desktop clock with a large English weekday and wallpaper-inspired Gruvbox tones. The time stays lighter than the day, with a flat, shadow-free appearance.\n\nVisual inspiration: Sands Conky by Arc Technologies (arcnations). Independent GNOME Shell implementation. Clash Display is optional and is not bundled.",
+  "shell-version": [
+    "50"
+  ],
+  "url": "https://github.com/pedrohenrique917/Peace-Clock"
+}
